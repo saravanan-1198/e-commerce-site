@@ -1,0 +1,7 @@
+"id";"user_id";"item_id";"status"
+"1";"1";"2";"""Added to cart"""
+"2";"3";"4";"""Added to cart"""
+"3";"1";"5";"""Added to cart"""
+"4";"5";"11";"""Confirmed"""
+"5";"2";"12";"""Confirmed"""
+"6";"8";"5";"""Confirmed"""
